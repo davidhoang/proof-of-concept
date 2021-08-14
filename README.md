@@ -67,7 +67,6 @@ I write a newsletter creative processes. You'll find me write a few different ty
 
 
 ## Special thanks
-- On Deck Writing
 - [Max Nussenbaum](https://maxnuss.com/about/): Program director for ODW who inspired and held me accountable t o writing
 - [Tom White](https://www.tomwhitenoise.com)
 - [Brie Wolfson](https://www.briewolfson.com)
